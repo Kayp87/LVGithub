@@ -1,2 +1,3 @@
 I'm first file in master.
 I'm edited in Branch1
+This edited by Branch2
